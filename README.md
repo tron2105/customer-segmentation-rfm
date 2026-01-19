@@ -20,5 +20,4 @@ quantities, and monetary values.
 - Python (pandas, numpy, matplotlib)
 - Microsoft Excel
 
-## Status
-Analysis in progress.
+
