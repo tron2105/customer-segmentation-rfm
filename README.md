@@ -20,4 +20,9 @@ quantities, and monetary values.
 - Python (pandas, numpy, matplotlib)
 - Microsoft Excel
 
+## Key Outcomes
+- Customers were segmented into behavioral groups based on recency, frequency, and monetary value.
+- High-value and churn-risk segments were identified for targeted retention strategies.
+- Analysis demonstrated how segmentation outcomes vary across different time windows.
+
 
